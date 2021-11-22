@@ -1,0 +1,20 @@
+{
+  "name": "g3raldbot-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "g3raldbot-test",
+  "description": "Twitter bot tweeting Sol NFT sales for a given collection",
+  "license": "MIT",
+  "engines": {
+    "node": "16.6.0",
+    "npm": "7.19.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.8.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "2",
+    "twit": "^2.2.11",
+  }
+}
